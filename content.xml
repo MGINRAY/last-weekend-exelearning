@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508003717VTTM47</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508003717NX90OU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Last_Weekend_4_Primaria.elpx</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778187808081</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e344a774-e669-44c4-b074-11294a8188b3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Welcome to Last Weekend</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Welcome to Last Weekend</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Welcome to Last Weekend</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e344a774-e669-44c4-b074-11294a8188b3</odePageId>
+      <odeBlockId>block-1778188363110-yaprmfbqj</odeBlockId>
+      <blockName>WELCOME TO LAST WEEKEND</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e344a774-e669-44c4-b074-11294a8188b3</odePageId>
+          <odeBlockId>block-1778188363110-yaprmfbqj</odeBlockId>
+          <odeIdeviceId>idevice-1778188363107-oh10ux01o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>Welcome to Last Weekend!</p>
+<p><br /></p>
+<p>In this project, you will learn how to talk about what you did last weekend.</p>
+<p>You will use English to speak, write and work with your classmates.</p>
+<p><br /></p>
+<p>Let’s have fun learning English!</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: oral inmediata (modelado, refuerzo positivo)</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778188363107-oh10ux01o","textInfoDurationInput":"10:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>Welcome to Last Weekend!</p>\n<p><br /></p>\n<p>In this project, you will learn how to talk about what you did last weekend.</p>\n<p>You will use English to speak, write and work with your classmates.</p>\n<p><br /></p>\n<p>Let’s have fun learning English!</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: oral inmediata (modelado, refuerzo positivo)</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: oral inmediata (modelado, refuerzo positivo)</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188162635-hu18l5m3c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. About the Project</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. About the Project</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188162635-hu18l5m3c</odePageId>
+      <odeBlockId>block-1778189336641-emguk1g6l</odeBlockId>
+      <blockName>ABOUT THE PROJECT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188162635-hu18l5m3c</odePageId>
+          <odeBlockId>block-1778189336641-emguk1g6l</odeBlockId>
+          <odeIdeviceId>idevice-1778189336638-1lty64t2f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>15:00</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd></dd></div></dl><p>In this project, we are going to learn how to talk about our last weekend in English.</p>
+<p><br /></p>
+<p>We will:</p>
+<p>- Learn vocabulary about weekend activities.</p>
+<p>- Use the past simple.</p>
+<p>- Write short texts.</p>
+<p>- Prepare a presentation.</p>
+<p></p>
+<p>We will work individually, in pairs and as a whole group.</p>
+<p>Here you have the presentation:  <a href="2-about-the-project.html" title="Tarea 2.1" rel="author">https://canva.link/ddx9fmyz4m1uldj</a></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: aclaraciones y comprobación de comprensión</p>
+<p></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778189336638-1lty64t2f","textInfoDurationInput":"15:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>15:00</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd></dd></div></dl><p>In this project, we are going to learn how to talk about our last weekend in English.</p>\n<p><br /></p>\n<p>We will:</p>\n<p>- Learn vocabulary about weekend activities.</p>\n<p>- Use the past simple.</p>\n<p>- Write short texts.</p>\n<p>- Prepare a presentation.</p>\n<p></p>\n<p>We will work individually, in pairs and as a whole group.</p>\n<p>Here you have the presentation:  <a href=\"exe-node:page-1778188162635-hu18l5m3c\" title=\"Tarea 2.1\" rel=\"author\">https://canva.link/ddx9fmyz4m1uldj</a></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: aclaraciones y comprobación de comprensión</p>\n<p></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: aclaraciones y comprobación de comprensión</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188178898-o29wlczlh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Digital Safety</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Digital Safety</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188178898-o29wlczlh</odePageId>
+      <odeBlockId>block-1778190174807-uztjkfnwd</odeBlockId>
+      <blockName>DIGITAL SAFETY</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188178898-o29wlczlh</odePageId>
+          <odeBlockId>block-1778190174807-uztjkfnwd</odeBlockId>
+          <odeIdeviceId>idevice-1778190174803-abfq8o0jo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>When we use digital tools, we must follow these rules:</p>
+<p><br /></p>
+<p>- Do not share personal information.</p>
+<p>- Use devices responsibly.</p>
+<p>- Respect others online.</p>
+<p>- Take care of our digital identity.</p>
+<p><br /></p>
+<p>We want to be safe and responsible digital citizens.</p>
+<p>Follow the link: <a href="3-digital-safety.html" title="Tarea 2.3" rel="author">https://canva.link/z6nagsbaoo95tyw</a></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: diálogo guiado</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778190174803-abfq8o0jo","textInfoDurationInput":"10:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>When we use digital tools, we must follow these rules:</p>\n<p><br /></p>\n<p>- Do not share personal information.</p>\n<p>- Use devices responsibly.</p>\n<p>- Respect others online.</p>\n<p>- Take care of our digital identity.</p>\n<p><br /></p>\n<p>We want to be safe and responsible digital citizens.</p>\n<p>Follow the link: <a href=\"exe-node:page-1778188178898-o29wlczlh\" title=\"Tarea 2.3\" rel=\"author\">https://canva.link/z6nagsbaoo95tyw</a></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: diálogo guiado</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: diálogo guiado</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188195437-fbimvpcfk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Final Task</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Final Task</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188195437-fbimvpcfk</odePageId>
+      <odeBlockId>block-1778190572776-jmrvtfltq</odeBlockId>
+      <blockName>FINAL TASK</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188195437-fbimvpcfk</odePageId>
+          <odeBlockId>block-1778190572776-jmrvtfltq</odeBlockId>
+          <odeIdeviceId>idevice-1778190572774-wqpqm5vbk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>90:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Your final task is to talk about your last weekend.</p>
+<p>You will work in pairs and prepare a short presentation explaining:</p>
+<p>- What you did.</p>
+<p>- Where you went.</p>
+<p>- Who you were with.</p>
+<p>You will use the past simple and vocabulary learned in class.</p>
+<p>Then, you will present your work to your classmates.</p>
+<p></p>
+<p></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: orientadora durante el proceso<br />Docente: final tras la presentación</p>
+<p>Para el desarrollo del producto final de mi SdA en el área de Inglés (4º de Primaria), he decidido utilizar la herramienta digital Canva.</p>
+<p>El objetivo es que el alumnado sea capaz de describir en inglés lo que hizo el fin de semana, utilizando estructuras en pasado, a través de la creación de una historia digital o presentación visual.</p>
+<p>He seleccionado Canva por los siguientes motivos:</p>
+<p>Gran versatilidad: permite crear presentaciones, cómics, infografías o historias visuales en un mismo entorno, adaptándose a diferentes niveles y necesidades del alumnado.<br />Adecuación a la edad: su diseño intuitivo y visual facilita su uso en alumnado de Primaria, favoreciendo la autonomía.<br />Motivación y creatividad: el uso de imágenes, iconos y plantillas hace que el alumnado se implique más en la tarea y exprese sus experiencias de forma significativa.<br />Desarrollo de la competencia digital: el alumnado crea contenido propio, no solo lo consume, lo que favorece un aprendizaje activo.<br />Accesibilidad: es una herramienta online, disponible en los dispositivos del centro, sin necesidad de instalación.<br />Además, Canva permite integrar texto e imagen, lo que facilita la construcción de frases en pasado en inglés de forma visual y contextualizada, mejorando tanto la expresión escrita como la oral.</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778190572774-wqpqm5vbk","textInfoDurationInput":"90:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>90:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Your final task is to talk about your last weekend.</p>\n<p>You will work in pairs and prepare a short presentation explaining:</p>\n<p>- What you did.</p>\n<p>- Where you went.</p>\n<p>- Who you were with.</p>\n<p>You will use the past simple and vocabulary learned in class.</p>\n<p>Then, you will present your work to your classmates.</p>\n<p></p>\n<p></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: orientadora durante el proceso<br />Docente: final tras la presentación</p>\n<p>Para el desarrollo del producto final de mi SdA en el área de Inglés (4º de Primaria), he decidido utilizar la herramienta digital Canva.</p>\n<p>El objetivo es que el alumnado sea capaz de describir en inglés lo que hizo el fin de semana, utilizando estructuras en pasado, a través de la creación de una historia digital o presentación visual.</p>\n<p>He seleccionado Canva por los siguientes motivos:</p>\n<p>Gran versatilidad: permite crear presentaciones, cómics, infografías o historias visuales en un mismo entorno, adaptándose a diferentes niveles y necesidades del alumnado.<br />Adecuación a la edad: su diseño intuitivo y visual facilita su uso en alumnado de Primaria, favoreciendo la autonomía.<br />Motivación y creatividad: el uso de imágenes, iconos y plantillas hace que el alumnado se implique más en la tarea y exprese sus experiencias de forma significativa.<br />Desarrollo de la competencia digital: el alumnado crea contenido propio, no solo lo consume, lo que favorece un aprendizaje activo.<br />Accesibilidad: es una herramienta online, disponible en los dispositivos del centro, sin necesidad de instalación.<br />Además, Canva permite integrar texto e imagen, lo que facilita la construcción de frases en pasado en inglés de forma visual y contextualizada, mejorando tanto la expresión escrita como la oral.</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: orientadora durante el proceso<br />Docente: final tras la presentación</p>\n<p>Para el desarrollo del producto final de mi SdA en el área de Inglés (4º de Primaria), he decidido utilizar la herramienta digital Canva.</p>\n<p>El objetivo es que el alumnado sea capaz de describir en inglés lo que hizo el fin de semana, utilizando estructuras en pasado, a través de la creación de una historia digital o presentación visual.</p>\n<p>He seleccionado Canva por los siguientes motivos:</p>\n<p>Gran versatilidad: permite crear presentaciones, cómics, infografías o historias visuales en un mismo entorno, adaptándose a diferentes niveles y necesidades del alumnado.<br />Adecuación a la edad: su diseño intuitivo y visual facilita su uso en alumnado de Primaria, favoreciendo la autonomía.<br />Motivación y creatividad: el uso de imágenes, iconos y plantillas hace que el alumnado se implique más en la tarea y exprese sus experiencias de forma significativa.<br />Desarrollo de la competencia digital: el alumnado crea contenido propio, no solo lo consume, lo que favorece un aprendizaje activo.<br />Accesibilidad: es una herramienta online, disponible en los dispositivos del centro, sin necesidad de instalación.<br />Además, Canva permite integrar texto e imagen, lo que facilita la construcción de frases en pasado en inglés de forma visual y contextualizada, mejorando tanto la expresión escrita como la oral.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188213692-068aivmhj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Our Learning Journey</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Our Learning Journey</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188213692-068aivmhj</odePageId>
+      <odeBlockId>block-1778190955234-hfet3pctp</odeBlockId>
+      <blockName>OUR LEARNING JOURNEY</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188213692-068aivmhj</odePageId>
+          <odeBlockId>block-1778190955234-hfet3pctp</odeBlockId>
+          <odeIdeviceId>idevice-1778190955232-mfb2ocryi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Variables (DUA)</dd></div></dl><p>Learning sequence (5 sessions – 60 minutes each):</p>
+<p></p>
+<p><strong>Session 1:</strong> Vocabulary about weekend activities (whole group).</p>
+<p><strong>Session 2: </strong>Past simple practice (individual and pairs).</p>
+<p><strong>Session 3:</strong> Writing about last weekend (individual).</p>
+<p><strong>Session 4:</strong> Creating the presentation (pairs).</p>
+<p><strong>Session 5:</strong> Oral presentations and reflection (whole group).</p>
+<p>Here is the timeline: <a href="5-our-learning-journey.html" title="Tarea 7.1" rel="author">My last weekend Timeline</a></p>
+<p></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: continua y procesual</p>
+<p></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778190955232-mfb2ocryi","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Variables (DUA)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Variables (DUA)</dd></div></dl><p>Learning sequence (5 sessions – 60 minutes each):</p>\n<p></p>\n<p><strong>Session 1:</strong> Vocabulary about weekend activities (whole group).</p>\n<p><strong>Session 2: </strong>Past simple practice (individual and pairs).</p>\n<p><strong>Session 3:</strong> Writing about last weekend (individual).</p>\n<p><strong>Session 4:</strong> Creating the presentation (pairs).</p>\n<p><strong>Session 5:</strong> Oral presentations and reflection (whole group).</p>\n<p>Here is the timeline: <a href=\"exe-node:page-1778188213692-068aivmhj\" title=\"Tarea 7.1\" rel=\"author\">My last weekend Timeline</a></p>\n<p></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: continua y procesual</p>\n<p></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: continua y procesual</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188234747-h5w8smsyn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Assessment</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Assessment</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188234747-h5w8smsyn</odePageId>
+      <odeBlockId>block-1778191382461-xcuo3bpul</odeBlockId>
+      <blockName>ASSESSMENT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188234747-h5w8smsyn</odePageId>
+          <odeBlockId>block-1778191382461-xcuo3bpul</odeBlockId>
+          <odeIdeviceId>idevice-1778191382457-zd5m4xw01</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In the following nodos wear are going to deal with:</p>
+<p>Evaluation criteria.</p>
+<p>Evaluation tools.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778191382457-zd5m4xw01","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In the following nodos wear are going to deal with:</p>\n<p>Evaluation criteria.</p>\n<p>Evaluation tools.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188249820-l07yly04r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>  6.1 Evaluation Criteria</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  6.1 Evaluation Criteria</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188249820-l07yly04r</odePageId>
+      <odeBlockId>block-1778191482032-4vdor4p8k</odeBlockId>
+      <blockName>EVALUATION CRITERIA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188249820-l07yly04r</odePageId>
+          <odeBlockId>block-1778191482032-4vdor4p8k</odeBlockId>
+          <odeIdeviceId>idevice-1778191482027-fae3b7kbr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>The following table shows the relationship between the project activities</p>
+<p>and the evaluation criteria.</p>
+<p><a href="-61-evaluation-criteria.html" title="ASOCIAMOS TAREAS A CRITERIOS .pdf" rel="author">{{context_path}}/content/resources/0263dcaa-f346-e286-cb8e-a3cd9b182ba1.pdf</a></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: basada en criterios</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778191482027-fae3b7kbr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>The following table shows the relationship between the project activities</p>\n<p>and the evaluation criteria.</p>\n<p><a href=\"exe-node:page-1778188249820-l07yly04r\" title=\"ASOCIAMOS TAREAS A CRITERIOS .pdf\" rel=\"author\">{{context_path}}/content/resources/0263dcaa-f346-e286-cb8e-a3cd9b182ba1.pdf</a></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: basada en criterios</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: basada en criterios</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188263105-pr0jlau5j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>  6.2 Evaluation Tools</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  6.2 Evaluation Tools</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188263105-pr0jlau5j</odePageId>
+      <odeBlockId>block-1778191842893-t4obsxcx6</odeBlockId>
+      <blockName>EVALUATION TOOLS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188263105-pr0jlau5j</odePageId>
+          <odeBlockId>block-1778191842893-t4obsxcx6</odeBlockId>
+          <odeIdeviceId>idevice-1778191842891-6cq5ndkf7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual y parejas</dd></div></dl><p>To assess this project, we will use different evaluation tools:</p>
+<p><br /></p>
+<p>- A rubric to assess the final task.</p>
+<p>- A self-assessment target.</p>
+<p>- A digital questionnaire using Google Forms.</p>
+<p><br /></p>
+<p>These tools provide feedback to improve learning.</p>
+<p><a href="-62-evaluation-tools.html" title="Cuestionario ">https://docs.google.com/forms/d/e/1FAIpQLSfnCMXGMr3Xt_uS2F1Au_GYumLmhURm5UNk5b9tBvPfeUJRiw/viewform?usp=header</a></p>
+<p><a href="-62-evaluation-tools.html" title="DIANA AUTOEVALUACIÓN TAREA MÓDULO 8.pdf">{{context_path}}/content/resources/DIANA AUTOEVALUACIÓN TAREA MÓDULO 8.pdf</a></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Docente: rúbrica<br />eXeLearning: acceso centralizado a instrumentos<br />Google Forms: feedback reflexivo</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778191842891-6cq5ndkf7","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual y parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual y parejas</dd></div></dl><p>To assess this project, we will use different evaluation tools:</p>\n<p><br /></p>\n<p>- A rubric to assess the final task.</p>\n<p>- A self-assessment target.</p>\n<p>- A digital questionnaire using Google Forms.</p>\n<p><br /></p>\n<p>These tools provide feedback to improve learning.</p>\n<p><a href=\"exe-node:page-1778188263105-pr0jlau5j\" title=\"Cuestionario \">https://docs.google.com/forms/d/e/1FAIpQLSfnCMXGMr3Xt_uS2F1Au_GYumLmhURm5UNk5b9tBvPfeUJRiw/viewform?usp=header</a></p>\n<p><a href=\"exe-node:page-1778188263105-pr0jlau5j\" title=\"DIANA AUTOEVALUACIÓN TAREA MÓDULO 8.pdf\">{{context_path}}/content/resources/DIANA AUTOEVALUACIÓN TAREA MÓDULO 8.pdf</a></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Docente: rúbrica<br />eXeLearning: acceso centralizado a instrumentos<br />Google Forms: feedback reflexivo</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Docente: rúbrica<br />eXeLearning: acceso centralizado a instrumentos<br />Google Forms: feedback reflexivo</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188277509-08zrq8631</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Resources</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Resources</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188277509-08zrq8631</odePageId>
+      <odeBlockId>block-1778192672420-hmlc4r0lf</odeBlockId>
+      <blockName>RESOURCES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188277509-08zrq8631</odePageId>
+          <odeBlockId>block-1778192672420-hmlc4r0lf</odeBlockId>
+          <odeIdeviceId>idevice-1778192672417-5cb3kjcf6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Here you can find resources for both, teachers and students.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778192672417-5cb3kjcf6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Here you can find resources for both, teachers and students.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188293338-x2xojdqtr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> 7.1 For Teachers</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 7.1 For Teachers</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188293338-x2xojdqtr</odePageId>
+      <odeBlockId>block-1778192216037-jnyqmc2b9</odeBlockId>
+      <blockName>FOR TEACHERS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188293338-x2xojdqtr</odePageId>
+          <odeBlockId>block-1778192216037-jnyqmc2b9</odeBlockId>
+          <odeIdeviceId>idevice-1778192216032-gbu5krpww</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Here you can find curated digital resources to support teachers during the project.</p>
+<p><a href="-71-for-teachers.html" title="Herramientas digitales ">https://www.symbaloo.com/shared/AAAABnuraBwAA42ADtGRTg==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778192216032-gbu5krpww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Here you can find curated digital resources to support teachers during the project.</p>\n<p><a href=\"exe-node:page-1778188293338-x2xojdqtr\" title=\"Herramientas digitales \">https://www.symbaloo.com/shared/AAAABnuraBwAA42ADtGRTg==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188307219-xdm3v8dod</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> 7.2 For Students</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> 7.2 For Students</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188307219-xdm3v8dod</odePageId>
+      <odeBlockId>block-1778192476332-38soxzj9j</odeBlockId>
+      <blockName>FOR STUDENTS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188307219-xdm3v8dod</odePageId>
+          <odeBlockId>block-1778192476332-38soxzj9j</odeBlockId>
+          <odeIdeviceId>idevice-1778192476330-rzha5m6wc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual y parejas</dd></div></dl><p>Here you can find digital resources to help you learn and review the contents.</p>
+<p><a href="-72-for-students.html" title="Recursos dirigidos para el alumnado ">https://padlet.com/mariagines2/my-weekend-dggbvt58q8s5b2u9</a></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>eXeLearning: autonomía del alumnado<br />Docente: orientación según necesidades</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778192476330-rzha5m6wc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual y parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual y parejas</dd></div></dl><p>Here you can find digital resources to help you learn and review the contents.</p>\n<p><a href=\"exe-node:page-1778188307219-xdm3v8dod\" title=\"Recursos dirigidos para el alumnado \">https://padlet.com/mariagines2/my-weekend-dggbvt58q8s5b2u9</a></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>eXeLearning: autonomía del alumnado<br />Docente: orientación según necesidades</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>eXeLearning: autonomía del alumnado<br />Docente: orientación según necesidades</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188318707-zpu4r9r1b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Teacher’s Guide</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Teacher’s Guide</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188318707-zpu4r9r1b</odePageId>
+      <odeBlockId>block-1778192737767-njma5979f</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188318707-zpu4r9r1b</odePageId>
+          <odeBlockId>block-1778192737767-njma5979f</odeBlockId>
+          <odeIdeviceId>idevice-1778192737766-n96ohc917</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>eacher’s Guide</p>
+<p><br /></p>
+<p>Level: 4th Grade of Primary Education</p>
+<p>Subject: English</p>
+<p>Duration: 5 sessions (60 minutes each)</p>
+<p><br /></p>
+<p>Grouping:</p>
+<p>Whole group, individual work and pair work.</p>
+<p><br /></p>
+<p>Assessment:</p>
+<p>Formative assessment with rubrics, self-assessment and digital tools.</p>
+<p><br /></p>
+<p>DUA:</p>
+<p>Different supports, rhythms and formats are provided to attend diversity.</p>
+<p><br /></p>
+<p>Recommendations:</p>
+<p>This project can be adapted to different contexts.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778192737766-n96ohc917","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>eacher’s Guide</p>\n<p><br /></p>\n<p>Level: 4th Grade of Primary Education</p>\n<p>Subject: English</p>\n<p>Duration: 5 sessions (60 minutes each)</p>\n<p><br /></p>\n<p>Grouping:</p>\n<p>Whole group, individual work and pair work.</p>\n<p><br /></p>\n<p>Assessment:</p>\n<p>Formative assessment with rubrics, self-assessment and digital tools.</p>\n<p><br /></p>\n<p>DUA:</p>\n<p>Different supports, rhythms and formats are provided to attend diversity.</p>\n<p><br /></p>\n<p>Recommendations:</p>\n<p>This project can be adapted to different contexts.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778188332465-xvlvz3uuz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Credits</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Credits</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778188332465-xvlvz3uuz</odePageId>
+      <odeBlockId>block-1778192784506-c6sb7oixa</odeBlockId>
+      <blockName>CREDITS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778188332465-xvlvz3uuz</odePageId>
+          <odeBlockId>block-1778192784506-c6sb7oixa</odeBlockId>
+          <odeIdeviceId>idevice-1778192784503-rtvgl0bny</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Credits</p>
+<p><br /></p>
+<p>Author: María Dolores Ginés Raya</p>
+<p>Description: Last Weekend – English project for 4th grade</p>
+<p>License: Creative Commons BY-SA</p>
+<p><br /></p>
+<p>Editable file:</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778192784503-rtvgl0bny","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Credits</p>\n<p><br /></p>\n<p>Author: María Dolores Ginés Raya</p>\n<p>Description: Last Weekend – English project for 4th grade</p>\n<p>License: Creative Commons BY-SA</p>\n<p><br /></p>\n<p>Editable file:</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
